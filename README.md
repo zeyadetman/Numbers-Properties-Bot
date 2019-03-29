@@ -22,6 +22,7 @@ The bot tweets are consist of text, and image to describe the relevent text, hel
 }
 ```
 6. If you don't know how to get the `base64` of your image [try this online converter](https://onlinepngtools.com/convert-png-to-base64).
+7. Create a new PR to this Repo.
 
 
 *If you've faced issues or wanna help me further send me [@zeyadetman](https://twitter.com/zeyadetman).*
