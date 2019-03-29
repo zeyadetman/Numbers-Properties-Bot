@@ -15,7 +15,7 @@ The bot tweets are consist of text, and image to describe the relevent text, hel
 1. Fork this Repo.
 1. Open the `tweets.js` file.
 1. Then add your tweet in this form
-```
+```js
 {
   text: `YOUR-TWEET-GOES-HERE-make-sure-it-less-than-280-chars`,
   img: `base64-image`,
